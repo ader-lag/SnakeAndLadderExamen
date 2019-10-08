@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\TI 1\SnakesAndLadders\SnakesAndLadders\bin\Debug\SnakesAndLadders.exe.config
+C:\Users\Asus\Desktop\TI 1\SnakesAndLadders\SnakesAndLadders\bin\Debug\SnakesAndLadders.exe
+C:\Users\Asus\Desktop\TI 1\SnakesAndLadders\SnakesAndLadders\bin\Debug\SnakesAndLadders.pdb
+C:\Users\Asus\Desktop\TI 1\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\TI 1\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.exe
+C:\Users\Asus\Desktop\TI 1\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.pdb
