@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SnakesAndLadders
 {
-    public class Players
+    public class Player
     {
         public string PlayerName { get; set; }
         public int Position { get; set; }

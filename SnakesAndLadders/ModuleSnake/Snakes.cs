@@ -16,5 +16,8 @@ namespace SnakesAndLadders
             this.HeadSnake = headSnake;
             this.TailSnake = tailSnake;
         }
+
+        public Snakes()
+        { }
     }
 }

@@ -8,12 +8,16 @@ namespace SnakesAndLadders
 {
     public class Ladders
     {
-        public int ladderUp { get; set; }
-        public int ladderDown { get; set; }
+        public int LadderHead { get; set; }
+        public int LadderTail { get; set; }
         public Ladders(int LadderUp, int LadderDown)
         {
-            this.ladderUp = LadderUp;
-            this.ladderDown = LadderDown;
+            this.LadderHead = LadderUp;
+            this.LadderTail = LadderDown;
         }
+
+        public Ladders()
+        { }
+        
     }
 }
